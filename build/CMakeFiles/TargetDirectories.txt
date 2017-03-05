@@ -1,0 +1,4 @@
+/Users/yi/Desktop/2017 spring course/NMPDE/exercise1/series1_handout/2d-FD-porous/build/CMakeFiles/edit_cache.dir
+/Users/yi/Desktop/2017 spring course/NMPDE/exercise1/series1_handout/2d-FD-porous/build/CMakeFiles/rebuild_cache.dir
+/Users/yi/Desktop/2017 spring course/NMPDE/exercise1/series1_handout/2d-FD-porous/build/CMakeFiles/finite_difference.dir
+/Users/yi/Desktop/2017 spring course/NMPDE/exercise1/series1_handout/2d-FD-porous/build/CMakeFiles/Eigen.dir

@@ -1,0 +1,14 @@
+-I/Users/yi/Desktop/2017 spring course/NMPDE/exercise1/series1_handout/2d-FD-porous/build/Eigen
+-I/Users/yi/Desktop/2017 spring course/NMPDE/exercise1/series1_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build
+-I/Users/yi/anaconda/include
+-I/Users/yi/anaconda/include/QtOpenGL
+-I/Users/yi/anaconda/include/QtGui
+-I/Users/yi/anaconda/include/QtCore
+-I/Users/yi/anaconda/include
+-D$<$<NOT:$<CONFIG:Debug>>:QT_NO_DEBUG>
+-DQT_OPENGL_LIB
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-o
+/Users/yi/Desktop/2017 spring course/NMPDE/exercise1/series1_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/demos/opengl/quaternion_demo.moc
+/Users/yi/Desktop/2017 spring course/NMPDE/exercise1/series1_handout/2d-FD-porous/build/Eigen/demos/opengl/quaternion_demo.h

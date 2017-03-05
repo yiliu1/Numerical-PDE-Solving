@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/yi/Desktop/2017 spring course/NMPDE/exercise1/series1_handout/2d-FD-porous/build/CMakeFiles/Eigen"
+		},
+		
+		{
+			"file" : "/Users/yi/Desktop/2017 spring course/NMPDE/exercise1/series1_handout/2d-FD-porous/build/CMakeFiles/Eigen.rule"
+		},
+		
+		{
+			"file" : "/Users/yi/Desktop/2017 spring course/NMPDE/exercise1/series1_handout/2d-FD-porous/build/CMakeFiles/Eigen-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/yi/Desktop/2017 spring course/NMPDE/exercise1/series1_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-stamp/Eigen-install.rule"
+		},
+		
+		{
+			"file" : "/Users/yi/Desktop/2017 spring course/NMPDE/exercise1/series1_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-stamp/Eigen-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/yi/Desktop/2017 spring course/NMPDE/exercise1/series1_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-stamp/Eigen-download.rule"
+		},
+		
+		{
+			"file" : "/Users/yi/Desktop/2017 spring course/NMPDE/exercise1/series1_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-stamp/Eigen-update.rule"
+		},
+		
+		{
+			"file" : "/Users/yi/Desktop/2017 spring course/NMPDE/exercise1/series1_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-stamp/Eigen-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/yi/Desktop/2017 spring course/NMPDE/exercise1/series1_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-stamp/Eigen-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/yi/Desktop/2017 spring course/NMPDE/exercise1/series1_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-stamp/Eigen-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "Eigen" ],
+		"name" : "Eigen"
+	}
+}
